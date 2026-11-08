@@ -1,0 +1,29 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# macOS
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# Editores / IDE
+.vscode/
+.idea/
+
+# Archivos locales y secretos
+.env
+*.log
